@@ -2,33 +2,33 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 // Import all logos
-import cppLogo from '../assets/LOGO/c++_logo.png';
-import javaLogo from '../assets/LOGO/java_logo.png';
-import swiftLogo from '../assets/LOGO/swift_logo.png';
-import pythonLogo from '../assets/LOGO/python_logo.png';
-import javascriptLogo from '../assets/LOGO/js_logo.png';
-import rLogo from '../assets/LOGO/R_logo.png';
-import kotlinLogo from '../assets/LOGO/Kotlin_logo.png';
+import cppLogo from '../assets/Logo/cpp_logo.png';
+import javaLogo from '../assets/Logo/java_logo.png';
+import swiftLogo from '../assets/Logo/swift_logo.png';
+import pythonLogo from '../assets/Logo/python_logo.png';
+import javascriptLogo from '../assets/Logo/js_logo.png';
+import rLogo from '../assets/Logo/R_logo.png';
+import kotlinLogo from '../assets/Logo/Kotlin_logo.png';
 
-import dsLogo from '../assets/LOGO/datastructures_logo.png';
-import algoLogo from '../assets/LOGO/algorithm_logo.png';
-import dbmsLogo from '../assets/LOGO/dbms_logo.png';
-import osLogo from '../assets/LOGO/OS_logo.png';
-import cnLogo from '../assets/LOGO/cn_logo.png';
-import oopLogo from '../assets/LOGO/oop_logo.png';
+import dsLogo from '../assets/Logo/datastructures_logo.png';
+import algoLogo from '../assets/Logo/algorithm_logo.png';
+import dbmsLogo from '../assets/Logo/dbms_logo.png';
+import osLogo from '../assets/Logo/OS_logo.png';
+import cnLogo from '../assets/Logo/cn_logo.png';
+import oopLogo from '../assets/Logo/oop_logo.png';
 
-import openaiLogo from '../assets/LOGO/openai_logo.png';
-import restapiLogo from '../assets/LOGO/restapi_logo.png';
-import jsonLogo from '../assets/LOGO/json_logo.png';
+import openaiLogo from '../assets/Logo/openai_logo.png';
+import restapiLogo from '../assets/Logo/restapi_logo.png';
+import jsonLogo from '../assets/Logo/json_logo.png';
 
-import mernLogo from '../assets/LOGO/mernstack_logo.png';
-import flutterLogo from '../assets/LOGO/flutter_logo.png';
-import kmpLogo from '../assets/LOGO/kmp_logo.png';
+import mernLogo from '../assets/Logo/mernstack_logo.png';
+import flutterLogo from '../assets/Logo/flutter_logo.png';
+import kmpLogo from '../assets/Logo/kmp_logo.png';
 
-import gitLogo from '../assets/LOGO/git_logo.png';
-import dockerLogo from '../assets/LOGO/docker_logo.png';
-import tableauLogo from '../assets/LOGO/tableau_logo.png';
-import powerbiLogo from '../assets/LOGO/PowerBI_logo.png';
+import gitLogo from '../assets/Logo/git_logo.png';
+import dockerLogo from '../assets/Logo/docker_logo.png';
+import tableauLogo from '../assets/Logo/tableau_logo.png';
+import powerbiLogo from '../assets/Logo/PowerBI_logo.png';
 
 // Map skill names to logos
 const skillLogos: Record<string, string> = {
