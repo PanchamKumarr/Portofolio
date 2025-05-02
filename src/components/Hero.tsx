@@ -91,7 +91,7 @@ const Hero: React.FC = () => {
             transition={{ duration: 0.8, delay: 1 }}
           >
             <a
-              href="https://drive.google.com/file/d/10MV_8_n68oHgpr08Q36otJWxenppMtJS/view?usp=sharing"
+              href="https://drive.google.com/file/d/1FeMBCo14WV8EbF78WMPsK7sFC1HvLyDL/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center px-6 py-3 bg-blue-500 hover:bg-blue-600 text-white rounded-lg transition-colors duration-300"
